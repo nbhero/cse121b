@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = 'Bruno Rafael Torres Candido';
 let currentYear = 2024;
-let profilePicture = '../images/me2.jpg';
+let profilePicture = './images/me2.jpg';
 /* Step 3 - Element Variables */
 const nameElement = document.getElementById('name');
 const foodElemenet = document.getElementById('food');
